@@ -64,8 +64,8 @@ npm run lint -- --fix
 ## 捐赠
 <table>
   <tr>
-    <th width="50%">支付宝</th>
     <th width="50%">微信</th>
+    <th width="50%">支付宝</th>
   </tr>
   <tr></tr>
   <tr align="center">
