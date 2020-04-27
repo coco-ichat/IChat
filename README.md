@@ -61,6 +61,19 @@ npm run lint -- --fix
 
 更多信息请参考
 
+## 捐赠
+<table>
+  <tr>
+    <th width="50%">微信</th>
+    <th width="50%">支付宝</th>
+  </tr>
+  <tr></tr>
+  <tr align="center">
+    <td><img width="70%" src="https://raw.githubusercontent.com/coco-ichat/IChat/master/screen/jz/wx.jpg"></td>
+    <td><img width="70%" src="https://raw.githubusercontent.com/coco-ichat/IChat/master/screen/jz/zfb.jpg"></td>
+  </tr>
+</table>
+
 ## Demo
 
 ![demo]
